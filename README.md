@@ -6,7 +6,7 @@
 - Three.js
 - Tailwind CSS
 
-## 🔗 Live Demo
+## 🔗 Click here to Live Demo
 
 [🌐 Visit Live Site](https://react-vite-typescript-3-d-ui-using.vercel.app/)
 
